@@ -54,13 +54,13 @@ Project Folder/
 ### 1. Clone the repository
 
 ```bash id="74ce0w"
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Harshit-Swain-25/Password-Generator.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash id="7q20c0"
-cd your-repository-name
+cd Password-Generator
 ```
 
 ### 3. (Optional) Install Pyperclip
